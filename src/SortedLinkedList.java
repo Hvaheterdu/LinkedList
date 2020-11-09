@@ -2,7 +2,7 @@ class SortedLinkedList<T extends Comparable<T>> extends LinkedList<T> {
 
     /**
      * @throws UnsupportedOperationException because method should not work in this
-     *                                       class
+     * class
      */
     @Override
     public void set(int pos, T x) throws UnsupportedOperationException {
@@ -11,7 +11,7 @@ class SortedLinkedList<T extends Comparable<T>> extends LinkedList<T> {
 
     /**
      * @throws UnsupportedOperationException because method should not work in this
-     *                                       class
+     * class
      */
     @Override
     public void insertPos(int pos, T x) throws UnsupportedOperationException {
