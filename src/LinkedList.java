@@ -73,7 +73,6 @@ public class LinkedList<T> implements Methods<T> {
      */
     public int size() {
         Node ptr = head;
-
         int counter = 0;
 
         while (ptr != null) {
@@ -294,7 +293,6 @@ public class LinkedList<T> implements Methods<T> {
         if (ptr == null) {
             System.out.println("The list is empty");
         }
-
         System.out.println();
 
         System.out.println("--- ELEMENTS IN LINKEDLIST ---");
@@ -304,7 +302,6 @@ public class LinkedList<T> implements Methods<T> {
             ptr = ptr.next;
             index++;
         }
-
         System.out.println();
     }
 
