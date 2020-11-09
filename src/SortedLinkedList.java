@@ -39,7 +39,7 @@ class SortedLinkedList<T extends Comparable<T>> extends LinkedList<T> {
     }
 
     /**
-     * Override method insert from LinkedList
+     * Override method 'insert' from LinkedList
      * 
      * @param x: element to insert
      */
