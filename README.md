@@ -2,7 +2,7 @@
 
 Doubly LinkedList implemented in Java.
 
-I have also implemented a Stack and a SortedLinkedList.
+I have also implemented a Stack and a Sorted LinkedList.
 
 Source files can be found in the folder named src
 
