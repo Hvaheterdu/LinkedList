@@ -1,13 +1,5 @@
 # LinkedList
 
-Doubly LinkedList implemented in Java.
+Doubly LinkedList implemented in Java with an interface.
 
-I have also implemented a Stack and a Sorted LinkedList.
-
-Source files can be found in the folder named src
-
-## Missing any features?
-
-There might be some features that I have not included.
-
-Let me know if you think there are any features that are missing and should be added.
+I have also implemented a Stack and a Sorted Linkedlist.
